@@ -1,0 +1,27 @@
+{
+  "name": "static_site_ts_webpack_starter",
+  "version": "1.0.0",
+  "description": "Starter static site with typescript, webpack and webpack dev server.",
+  "main": "index.html",
+  "scripts": {
+    "serve": "webpack-dev-server --mode=development --open",
+    "build": "webpack --mode=production"
+  },
+  "author": "patelb200",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "copy-webpack-plugin": "^4.6.0",
+    "css-loader": "^2.1.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "ts-loader": "^5.3.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
