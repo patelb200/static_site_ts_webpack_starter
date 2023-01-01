@@ -14,14 +14,14 @@
   },
   "devDependencies": {
     "@types/node": "^10.14.9",
-    "copy-webpack-plugin": "^4.6.0",
-    "css-loader": "^2.1.1",
-    "mini-css-extract-plugin": "^0.5.0",
-    "ts-loader": "^5.4.5",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "mini-css-extract-plugin": "^2.7.2",
+    "ts-loader": "^9.4.2",
     "tslint": "^5.17.0",
     "typescript": "^3.5.2",
-    "webpack": "^4.34.0",
-    "webpack-cli": "^3.3.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.7.1"
   }
 }
